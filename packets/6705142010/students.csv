@@ -1,0 +1,39 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69859797,Duangjai,Kaewkla,Cybersecurity,2.32,2025-08-14
+69549635,Prasert,Wongsa,Computer Science,3.70,2025-08-17
+69567656,Wichai,Inthara,Software Engineering,2.97,2025-08-10
+69450120,Somchai,Yodsiri,Information Technology,2.22,2025-08-20
+69192080,Suda,Sukprasert,Software Engineering,3.16,2025-08-20
+69938576,Krit,Rattanakorn,Data Science,2.30,2025-08-17
+69130954,Teerapat,Suwannarat,Data Science,3.56,2025-08-16
+69487155,Thanakorn,Sooksai,Software Engineering,2.57,2025-08-18
+69667321,Somsak,Pattana,Cybersecurity,3.20,2025-08-19
+69251282,Nattaya,Sukprasert,Computer Science,2.81,2025-08-11
+69905629,Chaiwat,Phromma,Computer Science,2.15,2025-08-12
+69114305,Orn,Meesuk,Computer Science,3.10,2025-08-15
+69965457,Sakda,Rakdee,Computer Science,2.79,2025-08-13
+69201884,Prasert,Thepsiri,Cybersecurity,3.08,2025-08-19
+69525612,Nattaya,Rattanakorn,Cybersecurity,2.11,2025-08-19
+69483758,Jintana,Rakdee,Computer Science,3.03,2025-08-11
+69444559,Teerapat,Thepsiri,Data Science,3.36,2025-08-15
+69999119,Kamon,Jaidee,Cybersecurity,3.94,2025-08-14
+69837760,Orn,Sukprasert,Data Science,2.53,2025-08-18
+69533662,Teerapat,Kongkaew,Software Engineering,3.55,2025-08-17
+69426935,Krit,Thongdee,Information Technology,2.57,2025-08-20
+69894123,Orn,Chaiyo,Data Science,3.08,2025-08-14
+69667321,Kamon,Meesuk,Cybersecurity,2.11,2025-08-19
+69283623,Jintana,Kongkaew,Software Engineering,3.24,2025-08-11
+69416950,Orn,Jaidee,Cybersecurity,3.30,2025-08-18
+69776108,Somsak,Rakdee,Software Engineering,3.76,2025-08-12
+69252684,Sakda,Kaewkla,Data Science,3.22,2025-08-12
+69156020,Siriporn,Sooksai,Information Technology,2.32,2025-08-16
+69685865,Anan,Jaidee,Data Science,2.82,2025-08-18
+69619962,Pim,Pattana,Computer Science,3.85,2025-08-20
+69376421,Kittipong,Sooksai,Cybersecurity,2.52,2025-08-11
+69674008,Phuwadol,Sooksai,Data Science,3.83,2025-08-11
+69174581,Krit,Phromma,Computer Science,2.20,2025-08-19
+69227801,Yupin,Kaewkla,Data Science,2.46,2025-08-10
+69380874,Yupin,Jaidee,Computer Science,3.62,2025-08-13
+69194333,Pim,Phromma,Computer Science,2.47,2025-08-17
+69538779,Thitipong,Srisuk,Data Science,3.02,2025-08-14
+69887094,Teerapat,Wongsa,Information Technology,3.43,2025-08-17

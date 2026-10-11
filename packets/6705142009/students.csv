@@ -1,0 +1,41 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69792899,Atthaphon,Pattana,Computer Science,3.14,2025-08-18
+69950563,Siriporn,Meesuk,Cybersecurity,3.72,2025-08-10
+69444891,Yupin,Jaidee,Data Science,2.23,2025-08-16
+69215833,Siriporn,Jaidee,Software Engineering,2.52,2025-08-17
+69897319,Napat,Rakdee,Cybersecurity,3.70,2025-08-18
+69986521,Teerapat,Suwannarat,Cybersecurity,3.26,2025-08-12
+69747920,Atthaphon,Sooksai,Data Science,3.06,2025-08-14
+69927770,Pakorn,Somboon,Software Engineering,3.83,2025-08-12
+69871220,Kamon,Suwannarat,Information Technology,3.45,2025-08-19
+69444856,Kittipong,Thepsiri,Software Engineering,3.21,2025-08-13
+69568350,Napat,Wongsa,Information Technology,2.50,2025-08-12
+69541079,Niran,Kongkaew,Software Engineering,2.15,2025-08-11
+69922922,Sakda,Sukprasert,Information Technology,3.73,2025-08-10
+69714554,Thitipong,Charoen,Software Engineering,3.11,2025-08-19
+69223286,Wichai,Boonma,Data Science,2.77,2025-08-20
+69712903,Chanida,Charoen,Data Science,3.28,2025-08-11
+69683484,Niran,Kaewkla,Data Science,2.12,2025-08-16
+69441845,Orn,Pattana,Information Technology,2.24,2025-08-11
+69622246,Somchai,Kongkaew,Information Technology,2.94,2025-08-10
+69623800,Napat,Phromma,Software Engineering,2.17,2025-08-19
+69441757,Kanokwan,Thongdee,Software Engineering,2.15,2025-08-18
+69197540,Yupin,Yodsiri,Information Technology,2.43,2025-08-16
+69906497,Krit,Saetang,Cybersecurity,3.18,2025-08-19
+69436551,Somchai,Wongsa,Computer Science,3.79,2025-08-15
+69517478,Yupin,Inthara,Data Science,3.71,2025-08-13
+69606843,Ratana,Thepsiri,Cybersecurity,3.89,2025-08-20
+69407428,Chanida,Sooksai,Information Technology,2.23,2025-08-13
+69806848,Kamon,Rattanakorn,Computer Science,3.66,2025-08-16
+69574080,Pim,Sooksai,Data Science,3.05,2025-08-15
+69888250,Anan,Kongkaew,Data Science,3.24,2025-08-20
+69463259,Somsak,Somboon,Computer Science,2.12,2025-08-14
+69344204,Supattra,Charoen,Data Science,3.26,2025-08-14
+69868066,Thanakorn,Inthara,Data Science,3.42,2025-08-15
+69183922,Somchai,Phromma,Cybersecurity,3.13,2025-08-10
+69968481,Anan,Sooksai,Computer Science,2.10,2025-08-12
+69965655,Thitipong,Rattanakorn,Data Science,3.41,2025-08-13
+69978425,Somsak,Chaiyo,Cybersecurity,2.87,2025-08-20
+69944539,Thanakorn,Srisuk,Cybersecurity,2.98,2025-08-20
+69129892,Chaiwat,Jaidee,Computer Science,3.45,2025-08-13
+69714554,Orn,Phromma,Software Engineering,3.93,2025-08-19

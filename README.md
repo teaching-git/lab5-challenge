@@ -10,8 +10,8 @@ on purpose and write a script that repairs it.
 | **Work** | Individual |
 | **Marks** | 20 + 2 bonus |
 | **Time** | about 3 hours of work, spread over the week |
-| **Round 0 (setup) due** | **(set by make_packets.py)** (no marks, but required) |
-| **Final deadline** | **(set by make_packets.py)**. Whatever is on your fork's default branch at that moment is your submission. |
+| **Round 0 (setup) due** | **Wed 21 Oct 2026, 23:59** (no marks, but required) |
+| **Final deadline** | **Sun 25 Oct 2026, 23:59**. Whatever is on your fork's default branch at that moment is your submission. |
 
 ## Contents
 
@@ -57,7 +57,7 @@ lab passwords already written in this repo, and never commit a GitHub token.
 
 ## Round 0: setup
 
-**Due (set by make_packets.py).**
+**Due Wed 21 Oct 2026, 23:59.**
 
 ### 0.1 Install Docker
 
@@ -162,13 +162,13 @@ Docker Desktop is free for personal and educational use.
 
 ### 0.2 Fork, then clone YOUR fork
 
-1. Sign in to GitHub and open <https://github.com/YOUR-GITHUB-USERNAME/lab5-challenge>.
+1. Sign in to GitHub and open <https://github.com/teaching-git/lab5-challenge>.
 2. Click **Fork** → **Create fork**. You now have `https://github.com/<YOUR-USERNAME>/lab5-challenge`.
 3. Clone **your fork**, not the instructor's repo:
    ```bash
    git clone https://github.com/<YOUR-USERNAME>/lab5-challenge.git
    cd lab5-challenge
-   git remote add upstream https://github.com/YOUR-GITHUB-USERNAME/lab5-challenge.git
+   git remote add upstream https://github.com/teaching-git/lab5-challenge.git
    git config user.name  "Your Name"
    git config user.email "the-email-on-your-github-account@example.com"
    git remote -v
@@ -207,7 +207,7 @@ You should see a version starting with `8.4`.
    ```
 5. Open your fork on GitHub and check that both files are there.
 
-**Push Round 0 by (set by make_packets.py).** If anything fails, you then still have days to get help.
+**Push Round 0 by Wed 21 Oct 2026, 23:59.** If anything fails, you then still have days to get help.
 
 ---
 

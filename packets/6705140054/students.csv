@@ -1,0 +1,39 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69268116,Kanokwan,Thongdee,Data Science,2.43,2025-08-17
+69402439,Siriporn,Srisuk,Computer Science,3.04,2025-08-12
+69168286,Kittipong,Somboon,Computer Science,3.69,2025-08-15
+69655553,Somchai,Kongkaew,Software Engineering,3.86,2025-08-11
+69346235,Pim,Phromma,Computer Science,2.93,2025-08-20
+69516187,Waraporn,Thepsiri,Information Technology,2.36,2025-08-16
+69246309,Benjawan,Inthara,Software Engineering,2.28,2025-08-19
+69320769,Yupin,Pattana,Computer Science,3.17,2025-08-14
+69426527,Kamon,Sukprasert,Data Science,2.56,2025-08-16
+69731961,Kittipong,Inthara,Computer Science,3.36,2025-08-17
+69770070,Chaiwat,Phromma,Information Technology,2.93,2025-08-20
+69525570,Pim,Srisuk,Information Technology,2.25,2025-08-16
+69912759,Kittipong,Wongsa,Information Technology,3.65,2025-08-12
+69658553,Nattaya,Wongsa,Data Science,2.55,2025-08-11
+69112285,Waraporn,Srisuk,Software Engineering,3.63,2025-08-17
+69231965,Nattaya,Rattanakorn,Computer Science,3.23,2025-08-14
+69213282,Kamon,Jaidee,Cybersecurity,3.93,2025-08-15
+69229595,Sakda,Srisuk,Data Science,3.95,2025-08-13
+69521830,Pim,Yodsiri,Data Science,2.57,2025-08-20
+69510574,Pim,Pattana,Data Science,2.06,2025-08-14
+69762635,Yupin,Sukprasert,Cybersecurity,2.93,2025-08-13
+69579693,Kamon,Chaiyo,Software Engineering,2.80,2025-08-16
+69891320,Orn,Suwannarat,Data Science,2.52,2025-08-10
+69968779,Thanakorn,Pattana,Cybersecurity,3.57,2025-08-16
+69409684,Yupin,Jaidee,Cybersecurity,2.59,2025-08-20
+69673903,Benjawan,Boonma,Cybersecurity,2.64,2025-08-17
+69941285,Yupin,Thepsiri,Cybersecurity,2.08,2025-08-19
+69879635,Arunee,Meesuk,Cybersecurity,3.45,2025-08-11
+69275350,Kittipong,Rakdee,Data Science,2.56,2025-08-19
+69134744,Supattra,Inthara,Software Engineering,3.78,2025-08-16
+69607189,Suda,Srisuk,Data Science,2.85,2025-08-15
+69573563,Yupin,Rakdee,Computer Science,3.92,2025-08-17
+69938216,Anan,Pattana,Data Science,3.79,2025-08-13
+69640888,Napat,Chaiyo,Data Science,3.41,2025-08-12
+69658553,Duangjai,Boonma,Data Science,2.76,2025-08-11
+69107137,Sakda,Suwannarat,Computer Science,3.39,2025-08-20
+69890071,Prasert,Boonma,Software Engineering,3.15,2025-08-17
+69723448,Wichai,Rakdee,Software Engineering,3.38,2025-08-11

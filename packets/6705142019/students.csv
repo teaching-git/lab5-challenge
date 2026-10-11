@@ -1,0 +1,34 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69616757,Chaiwat,Boonma,Computer Science,3.11,2025-08-10
+69503523,Jintana,Chaiyo,Data Science,3.67,2025-08-18
+69501750,Chanida,Boonma,Information Technology,3.09,2025-08-14
+69274862,Kittipong,Jaidee,Software Engineering,3.14,2025-08-20
+69416758,Prasert,Sukprasert,Cybersecurity,3.84,2025-08-15
+69915593,Pakorn,Thepsiri,Cybersecurity,3.68,2025-08-11
+69771451,Ratana,Meesuk,Data Science,3.04,2025-08-10
+69376877,Prasert,Thepsiri,Data Science,3.79,2025-08-20
+69258643,Pongsak,Inthara,Information Technology,2.25,2025-08-19
+69645827,Ratana,Suwannarat,Computer Science,3.47,2025-08-15
+69843891,Phuwadol,Wongsa,Software Engineering,2.56,2025-08-11
+69413876,Chaiwat,Saetang,Data Science,2.61,2025-08-11
+69535578,Krit,Rattanakorn,Cybersecurity,2.08,2025-08-19
+69779254,Orn,Yodsiri,Computer Science,3.82,2025-08-19
+69126359,Yupin,Phromma,Information Technology,2.81,2025-08-13
+69211373,Pakorn,Srisuk,Cybersecurity,2.24,2025-08-11
+69931129,Arunee,Pattana,Information Technology,3.99,2025-08-14
+69737826,Napat,Inthara,Software Engineering,3.57,2025-08-11
+69858282,Somchai,Boonma,Cybersecurity,3.89,2025-08-18
+69774923,Chanida,Meesuk,Data Science,3.75,2025-08-10
+69455796,Waraporn,Sooksai,Information Technology,3.74,2025-08-13
+69858098,Anan,Thepsiri,Computer Science,2.82,2025-08-14
+69695085,Siriporn,Kaewkla,Software Engineering,2.26,2025-08-20
+69666251,Prasert,Charoen,Cybersecurity,3.60,2025-08-16
+69323346,Somchai,Kaewkla,Cybersecurity,2.13,2025-08-18
+69978936,Pongsak,Pattana,Cybersecurity,2.83,2025-08-10
+69762897,Nattaya,Saetang,Information Technology,3.27,2025-08-17
+69617379,Suda,Rattanakorn,Computer Science,2.83,2025-08-15
+69503523,Supattra,Wongsa,Data Science,2.33,2025-08-18
+69527831,Benjawan,Wongsa,Information Technology,3.59,2025-08-15
+69382023,Yupin,Charoen,Cybersecurity,3.17,2025-08-18
+69508719,Thanakorn,Yodsiri,Software Engineering,3.81,2025-08-11
+69637740,Atthaphon,Sukprasert,Cybersecurity,3.80,2025-08-14

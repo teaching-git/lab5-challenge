@@ -1,0 +1,39 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69729609,Chanida,Phromma,Computer Science,2.30,2025-08-13
+69417438,Pakorn,Kaewkla,Data Science,2.52,2025-08-20
+69574319,Anan,Suwannarat,Data Science,2.38,2025-08-11
+69532476,Phuwadol,Phromma,Information Technology,3.82,2025-08-20
+69984661,Supattra,Charoen,Information Technology,3.53,2025-08-15
+69522617,Malee,Sooksai,Computer Science,3.41,2025-08-19
+69883653,Ratana,Suwannarat,Cybersecurity,2.52,2025-08-16
+69876185,Kanokwan,Pattana,Software Engineering,3.76,2025-08-19
+69851539,Siriporn,Srisuk,Computer Science,2.05,2025-08-11
+69392340,Siriporn,Boonma,Cybersecurity,2.49,2025-08-10
+69897683,Pakorn,Charoen,Software Engineering,3.17,2025-08-13
+69759930,Ratana,Boonma,Software Engineering,3.07,2025-08-11
+69693056,Chanida,Charoen,Software Engineering,3.20,2025-08-20
+69659177,Jintana,Thongdee,Software Engineering,2.00,2025-08-17
+69812756,Chanida,Meesuk,Computer Science,2.06,2025-08-13
+69334935,Niran,Charoen,Computer Science,3.06,2025-08-15
+69302090,Wichai,Saetang,Software Engineering,3.36,2025-08-12
+69756110,Yupin,Thepsiri,Computer Science,3.61,2025-08-16
+69554098,Chanida,Jaidee,Computer Science,2.21,2025-08-15
+69929476,Lalita,Somboon,Data Science,3.65,2025-08-13
+69482258,Duangjai,Charoen,Information Technology,2.18,2025-08-10
+69441906,Kamon,Boonma,Data Science,3.84,2025-08-11
+69771559,Supattra,Boonma,Data Science,3.35,2025-08-10
+69985504,Pim,Kongkaew,Data Science,3.87,2025-08-12
+69910494,Thanakorn,Kongkaew,Software Engineering,2.40,2025-08-10
+69883653,Chanida,Somboon,Cybersecurity,2.02,2025-08-16
+69870226,Somchai,Thepsiri,Information Technology,2.39,2025-08-19
+69447732,Benjawan,Thepsiri,Software Engineering,3.96,2025-08-10
+69118399,Kittipong,Jaidee,Data Science,3.78,2025-08-14
+69323181,Supattra,Sukprasert,Cybersecurity,3.49,2025-08-17
+69173222,Atthaphon,Kaewkla,Information Technology,2.18,2025-08-20
+69808383,Niran,Phromma,Software Engineering,3.39,2025-08-13
+69979641,Kittipong,Rakdee,Information Technology,3.12,2025-08-10
+69313093,Teerapat,Thongdee,Information Technology,3.68,2025-08-15
+69791387,Benjawan,Phromma,Information Technology,2.24,2025-08-16
+69853640,Somchai,Chaiyo,Software Engineering,2.24,2025-08-12
+69985349,Kittipong,Rattanakorn,Software Engineering,2.72,2025-08-15
+69119217,Jintana,Jaidee,Cybersecurity,2.64,2025-08-19

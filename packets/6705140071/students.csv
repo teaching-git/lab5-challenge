@@ -1,0 +1,39 @@
+student_id,first_name,last_name,major,gpa,enrolled_date
+69105040,Phuwadol,Inthara,Computer Science,2.85,2025-08-17
+69341535,Kanokwan,Srisuk,Computer Science,2.78,2025-08-15
+69216929,Kittipong,Meesuk,Data Science,3.47,2025-08-13
+69637489,Chaiwat,Somboon,Computer Science,3.71,2025-08-19
+69590251,Kanokwan,Yodsiri,Cybersecurity,3.29,2025-08-20
+69199745,Kittipong,Chaiyo,Software Engineering,2.35,2025-08-17
+69362634,Suda,Meesuk,Computer Science,3.43,2025-08-10
+69595042,Pim,Thepsiri,Cybersecurity,2.90,2025-08-19
+69958471,Kamon,Srisuk,Data Science,3.43,2025-08-11
+69405588,Pim,Somboon,Software Engineering,2.38,2025-08-15
+69931991,Sakda,Chaiyo,Cybersecurity,2.28,2025-08-14
+69679275,Kamon,Suwannarat,Data Science,2.31,2025-08-13
+69683614,Anan,Thongdee,Computer Science,3.39,2025-08-16
+69641518,Pim,Meesuk,Information Technology,3.84,2025-08-13
+69353006,Somchai,Wongsa,Cybersecurity,2.06,2025-08-10
+69264223,Ratana,Charoen,Computer Science,2.44,2025-08-19
+69606432,Kamon,Rattanakorn,Information Technology,3.24,2025-08-10
+69872391,Teerapat,Charoen,Cybersecurity,2.42,2025-08-15
+69303204,Yupin,Sukprasert,Software Engineering,2.14,2025-08-18
+69518793,Pongsak,Charoen,Software Engineering,3.71,2025-08-12
+69118964,Somchai,Suwannarat,Computer Science,2.37,2025-08-18
+69490817,Malee,Kaewkla,Software Engineering,2.92,2025-08-19
+69793038,Ratana,Kaewkla,Cybersecurity,2.73,2025-08-12
+69490228,Jintana,Rakdee,Computer Science,2.31,2025-08-12
+69885070,Yupin,Meesuk,Computer Science,3.72,2025-08-20
+69931662,Kanokwan,Meesuk,Data Science,2.11,2025-08-12
+69417768,Orn,Pattana,Software Engineering,3.64,2025-08-11
+69650577,Ratana,Somboon,Computer Science,3.57,2025-08-14
+69235093,Arunee,Phromma,Computer Science,3.59,2025-08-12
+69679275,Nattaya,Suwannarat,Data Science,2.02,2025-08-13
+69262607,Siriporn,Sukprasert,Software Engineering,2.82,2025-08-10
+69722118,Somchai,Rakdee,Information Technology,3.05,2025-08-16
+69108823,Anan,Kaewkla,Cybersecurity,3.51,2025-08-17
+69388817,Suda,Phromma,Cybersecurity,3.45,2025-08-17
+69666575,Thanakorn,Somboon,Data Science,3.92,2025-08-20
+69576685,Somchai,Jaidee,Computer Science,2.99,2025-08-14
+69346214,Thitipong,Wongsa,Information Technology,3.08,2025-08-14
+69216058,Orn,Suwannarat,Information Technology,2.67,2025-08-14
