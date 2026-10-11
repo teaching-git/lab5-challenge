@@ -1,0 +1,2 @@
+-- bonus.sql: Bonus round. Creates perf_<ID>.access_log and fills it with 100,000 rows.
+-- Never run from bootstrap.sh, and never part of baseline/.

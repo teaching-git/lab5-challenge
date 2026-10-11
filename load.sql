@@ -1,0 +1,7 @@
+-- load.sql: load your packet's CSVs. bootstrap.sh runs it inside reg_<ID>:
+--     mysql "reg_<ID>" < /work/load.sql
+-- The server can only read files from the directory named by:  SELECT @@secure_file_priv;
+-- bootstrap.sh copies the CSVs there first.
+--
+-- Round 1: students and courses.   Round 2: enrollments.
+-- Both planted defects must be handled here, so that bootstrap.sh never fails on them.

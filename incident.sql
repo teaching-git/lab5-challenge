@@ -1,0 +1,3 @@
+-- incident.sql: Round 5. Your incident, written to the rules in the README.
+-- Write your database and account names literally (reg_<ID>, s<ID>_...).
+-- The grader rewrites them when it runs your incident against a classmate's server.

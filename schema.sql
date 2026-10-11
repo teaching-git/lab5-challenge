@@ -1,0 +1,14 @@
+-- schema.sql: your table definitions. bootstrap.sh runs it inside reg_<ID>:
+--     mysql "reg_<ID>" < /work/schema.sql
+-- So do NOT write CREATE DATABASE or USE here, and do not prefix table names.
+--
+-- Naming contract (classmates' Round 5 incidents rely on it):
+--   * Tables: students, courses, enrollments.
+--   * Every CSV header is a column with exactly that name, in the table of the same name.
+--   * You may add extra columns (a surrogate id, for example). Each extra column must
+--     be nullable or have a DEFAULT, so that an INSERT naming only the CSV columns works.
+--   * Foreign keys (Round 2):
+--       fk_enr_student  enrollments(student_id)  -> students(student_id)
+--       fk_enr_course   enrollments(course_code) -> courses(course_code)
+--   * Every table: ENGINE=InnoDB, DEFAULT CHARSET=utf8mb4, and a PRIMARY KEY.
+-- Everything else (types, keys, constraints, indexes) is your design.

@@ -1,0 +1,5 @@
+-- q2: the average GPA of the students enrolled in each course.
+-- Only courses that have at least one enrolment.
+-- Output columns, in this order: course_code, avg_gpa   (avg_gpa = ROUND(AVG(gpa), 2))
+-- ORDER BY course_code
+-- Exactly one SELECT statement. The grader runs it inside reg_<ID>.

@@ -1,0 +1,10 @@
+# Keep Unix line endings for everything, on every OS.
+# Windows editors that save CRLF break bash scripts ("$'\r': command not found")
+# and leave a stray \r in the last column of every CSV row.
+* text=auto eol=lf
+*.sh text eol=lf
+*.sql text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.log text eol=lf

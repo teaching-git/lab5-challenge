@@ -1,0 +1,4 @@
+-- q3: every course whose number of enrolments is greater than its capacity.
+-- Output columns, in this order: course_code, capacity, enrolled
+-- ORDER BY course_code
+-- Exactly one SELECT statement. The grader runs it inside reg_<ID>.

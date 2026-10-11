@@ -1,0 +1,6 @@
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# logs/ and baseline/ are NOT ignored: they are part of your submission.

@@ -1,0 +1,6 @@
+-- fixes.sql: Round 4. bootstrap.sh runs it as root, right after bad_grants.sql.
+-- Afterwards every account must match the role spec in your STUDENT_CARD.md exactly.
+--
+-- Allowed statements: DROP USER, REVOKE, GRANT, ALTER USER, RENAME USER.
+-- Writing to any mysql.* table directly scores 0 for the whole spec check.
+-- It must run cleanly every time bootstrap.sh runs (bad_grants.sql resets the accounts first).

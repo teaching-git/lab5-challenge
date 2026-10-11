@@ -1,0 +1,4 @@
+-- q1: every student who has no enrolments.
+-- Output columns, in this order: student_id, first_name, last_name
+-- ORDER BY student_id
+-- Exactly one SELECT statement. The grader runs it inside reg_<ID>.
